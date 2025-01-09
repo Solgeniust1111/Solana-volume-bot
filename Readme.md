@@ -44,12 +44,6 @@ npm run start
 
 # Version 2 is developed and it is private repository.
 
-### What is the main difference between the former volume booster and the updated one?
-
-https://x.com/dev_myato1023/status/1831053270737121302
-You can see the transactions and bot running in this video.
-I hope it will be helpful for you.
-
 ## 🚀 Last Version's Drawbacks and Improvements
 
 - ❌ **Repetitive buy and sell with one wallet**: The last version of the Raydium Volume Bot used fixed wallets, so it was apparent on DexScreener that some wallets performed repetitive buy and sell actions.
