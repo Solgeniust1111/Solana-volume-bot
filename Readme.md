@@ -7,7 +7,6 @@ This volume bot distribute SOL to multiple wallets and buy and sell with that di
 ## Contact Info
 
 Telegram: @Rianeregoista83
-
 You can always feel free to find me here for my help on other projects.
 
 ## Features
